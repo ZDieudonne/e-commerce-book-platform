@@ -1,0 +1,82 @@
+[
+  {
+    "id": "1",
+    "title": "Les larmes de la montagne",
+    "slug": "les-larmes-de-la-montagne",
+    "author_name": "Abdoul Moumouni OUÉDRAOGO",
+    "price_physical": 4000,
+    "price_pdf": 1600,
+    "cover_image_url": null,
+    "description": "Un recueil de nouvelles poignantes qui racontent des histoires de résilience, de douleur et d’espoir, ancrées dans les paysages majestueux et parfois rudes de la montagne."
+  },
+  {
+    "id": "2",
+    "title": "Obscure-Clarté d'une vie",
+    "slug": "obscure-clarte-dune-vie",
+    "author_name": "Abdoul Moumouni OUÉDRAOGO",
+    "price_physical": 4000,
+    "price_pdf": 1600,
+    "cover_image_url": null,
+    "description": "Roman poignant où la vie d’une femme navigue entre ombre et lumière, explorant la résilience et la quête de vérité."
+  },
+  {
+    "id": "3",
+    "title": "Les Caresses du soleil",
+    "slug": "les-caresses-du-soleil",
+    "author_name": "Abdoul Moumouni OUÉDRAOGO",
+    "price_physical": 3000,
+    "price_pdf": 1200,
+    "cover_image_url": null,
+    "description": "Recueil de poèmes lumineux célébrant la nature, la vie et la profondeur des sentiments humains."
+  },
+  {
+    "id": "4",
+    "title": "La poule et le Varan et autres contes",
+    "slug": "la-poule-et-le-varan-et-autres-contes",
+    "author_name": "Abdoul Moumouni OUÉDRAOGO",
+    "price_physical": 3000,
+    "price_pdf": 1200,
+    "cover_image_url": null,
+    "description": "Contes africains empreints d’humour et de sagesse transmettant des valeurs traditionnelles."
+  },
+  {
+    "id": "5",
+    "title": "Le Capitaine Ibrahim TRAORÉ : l'espoir retrouvé",
+    "slug": "le-capitaine-ibrahim-traore-lespoir-retrouve",
+    "author_name": "Abdoul Moumouni OUÉDRAOGO",
+    "price_physical": 6000,
+    "price_pdf": 2400,
+    "cover_image_url": null,
+    "description": "Essai biographique présentant le capitaine Ibrahim Traoré comme symbole de renaissance nationale."
+  },
+  {
+    "id": "6",
+    "title": "Le chemin de la spiritualité : Tome I",
+    "slug": "le-chemin-de-la-spiritualite-tome-1",
+    "author_name": "Vladimir YANA",
+    "price_physical": 4500,
+    "price_pdf": 1800,
+    "cover_image_url": null,
+    "description": "Guide spirituel et philosophique pour trouver paix intérieure et sens à l’existence."
+  },
+  {
+    "id": "7",
+    "title": "La fin de la faim en 05 ans",
+    "slug": "la-fin-de-la-faim-en-05-ans",
+    "author_name": "SAMBA Tiédawendé Grégoire",
+    "price_physical": 10000,
+    "price_pdf": 4000,
+    "cover_image_url": null,
+    "description": "Essai proposant des solutions concrètes pour éradiquer la faim en cinq ans."
+  },
+  {
+    "id": "8",
+    "title": "Écôle Théâtre",
+    "slug": "ecole-theatre",
+    "author_name": "Gn Judicaël SANDWIDI",
+    "price_physical": null,
+    "price_pdf": null,
+    "cover_image_url": null,
+    "description": "Pièce de théâtre explorant la vie et les ambitions de jeunes comédiens."
+  }
+]
